@@ -1,0 +1,25 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "AstroLysis"
+contentDir = "content/english"
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+copyright = "Copyright © 2023 - All rights reserved"
+
+############################# Greek ############################
+[el]
+languageName = "El"
+title = "AstroLysis"
+contentDir = "content/greek"
+weight = 2
+########### footer content ##########
+footer_menu_left = "Εταιρεία"
+footer_menu_middle = "Προϊόντα"
+footer_menu_right = "Υποστήριξη"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+copyright = "Copyright © 2023 - All rights reserved"
