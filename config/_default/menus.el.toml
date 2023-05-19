@@ -1,41 +1,58 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Κεντρική"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog/"
 weight = 2
+name = "Χρήσεις"
+hasChildren = true
 
-[[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 3
+  [[main]]
+  parent = "Χρήσεις"
+  name = "Civilian"
+  url = "pricing/"
+  weight = 1
 
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 4
+  [[main]]
+  parent = "Χρήσεις"
+  name = "Defence"
+  url = "pricing/"
+  weight = 2
 
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 5
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 2
+
+#[[main]]
+#name = "Pricing"
+#url = "pricing/"
+#weight = 3
+
+#[[main]]
+#name = "Contact"
+#url = "contact/"
+#weight = 4
+
+#[[main]]
+#name = "FAQ"
+#url = "faq/"
+#weight = 5
 
 # footer menu left
 [[footer_left]]
 name = "About Us"
 url = "#"
 
-[[footer_left]]
-name = "Quick Start"
-url = "#"
+#[[footer_left]]
+#name = "Quick Start"
+#url = "#"
 
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing/"
 
 
 # footer menu middle

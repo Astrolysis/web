@@ -4,9 +4,9 @@ banner:
   title : "Welcome to <br> AstroLysis"
   content : "We specialize in crafting state-of-the-art solutions that harness the power of AI, satellite data, and aerial imagery. Our multidisciplinary team of experts in Electrical Engineering, AI, Deep Learning, UAVs, and Embedded Systems collaborates to create innovative tools that unlock valuable insights from the skies."
   button:
-    enable : false
-    label : "Contact Us"
-    link : "contact/"
+    enable : true
+    label : "Learn more"
+    link : "#services"
 
 ##################### Feature ##########################
 feature:
@@ -49,7 +49,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Mission"
+    - title : "Our mission"
       images:
       - "images/service-1.jpg"
       - "images/service-2.jpg"
@@ -84,7 +84,16 @@ service:
     - title : "Energy"
       images:
       - "images/service-energy.jpg"
-      content : "Have you considered the transformative impact of satellite data and aerial imagery in the energy industry? In the oil and gas sector, these technologies are paving the way for more efficient exploration and monitoring. By analyzing satellite images, companies can identify promising exploration sites, monitor their pipelines for potential leaks, and even predict equipment maintenance needs. It's estimated that this could lead to a reduction in operational costs of up to 20%, improving both the bottom line and environmental safety."
+      content : "Have you considered the transformative impact of satellite data and aerial imagery in the energy industry? In the oil and gas sector, these technologies are paving the way for more efficient exploration and monitoring. By analyzing satellite images, companies can identify promising exploration sites, monitor their pipelines for potential leaks, and even predict equipment maintenance needs. It's estimated that this could lead to a reduction in operational costs of up to 20%, improving both the bottom line and environmental safety."      
+      # button:
+      #   enable : true
+      #   label : "Check it out"
+      #   link : "#"
+
+    - title : "Military"
+      images:
+      - "images/service-military.jpg"
+      content : "Description here"
       # button:
       #   enable : true
       #   label : "Check it out"

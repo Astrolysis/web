@@ -1,0 +1,27 @@
+[readmore]
+other = "Διαβάστε περισσότερα"
+
+[translations]
+other="Μεταφράσεις"
+
+[error404]
+other = "Σας ζητούμε συγνώμημ η σελίδα που ακολουθήσατε δεν υπάρχει."
+
+[yourname]
+other = "Όνομα"
+
+[youremail]
+other = "Email"
+
+[subject]
+other = "Θέμα"
+
+[yourmessage]
+other = "Το μήνυμά σας"
+
+[sendnow]
+other = "Αποστολή"
+
+[contact]
+other = "Επικοινωνία"
+
