@@ -119,7 +119,7 @@ about_us:
     designation: "AI"
   - name: "Konstantinos Lymeris"
     image: "images/about/team/02.jpg"
-    designation: "Drone"
+    designation: "UAVs"
   - name: "Michalis spyrou"
     image: "images/about/team/03.jpg"
     designation: "SW"
