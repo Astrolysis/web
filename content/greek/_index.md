@@ -76,7 +76,7 @@ service:
     - title : "Ναυτιλία"
       images:
       - "images/service-shipping.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Στον κλάδο της ναυτιλίας, τα δεδομένα από δορυφόρους και η τεχνητή νοημοσύνη έχουν το δυναμικό να μειώσουν σημαντικά τα λειτουργικά έξοδα. Μέσω της ανάλυσης μοτίβων κυμάτων, αέρα και άλλων μετεωρολογικών δεδομένων, μπορούν να βελτιστοποιηθούν οι διαδρομές ναυσιπλοΐας για εξοικονόμηση καυσίμων και αύξηση της ταχύτητας. Αυτές οι βελτιώσεις μπορούν να οδηγήσουν σε μείωση των λειτουργικών εξόδων έως και 15%. Με αυτήν την προηγμένη τεχνολογία, μπορούμε να εγκαινιάσουμε μια νέα εποχή αποτελεσματικών και περιβαλλοντικά ευαισθητοποιημένων ναυτιλιακών δραστηριοτήτων."
       # button:
       #   enable : true
       #   label : "Check it out"
@@ -86,21 +86,21 @@ service:
     - title : "Ενέργεια"
       images:
       - "images/service-energy.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Έχετε λάβει υπόψη το αντίκτυπο των δεδομένων από δορυφόρους και των εικόνων από αέρος στον τομέα της ενέργειας; Στον τομέα του πετρελαίου και του φυσικού αερίου, αυτές οι τεχνολογίες ανοίγουν τον δρόμο για πιο αποτελεσματική εξερεύνηση και παρακολούθηση. Αναλύοντας τις εικόνες από δορυφόρους, οι εταιρείες μπορούν να εντοπίσουν ελπιδοφόρες τοποθεσίες εξερεύνησης, να παρακολουθούν τα αγωγούς τους για δυνητικές διαρροές και ακόμα να προβλέπουν τις ανάγκες συντήρησης του εξοπλισμού. Εκτιμάται ότι αυτό μπορεί να οδηγήσει σε μείωση των λειτουργικών εξόδων έως και 20%, βελτιώνοντας τόσο τα οικονομικά αποτελέσματα όσο και την περιβαλλοντική ασφάλεια."
       # button:
       #   enable : true
       #   label : "Check it out"
       #   link : "#"
 
     # service item loop
-    - title : "Στρατός"
+    - title : "Εξατομικευμένες λύσεις"
       images:
       - "images/service-military.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      # button:
-      #   enable : true
-      #   label : "Check it out"
-      #   link : "#"
+      content : "Επικοινωνήσετε μαζί μας αν αναζητάτε μια εξατομικευμένη λύση που ανταποκρίνεται στις ανάγκες σας!"
+      button:
+        enable : true
+        label : "Επικοινωνία"
+        link : "/el/contact"
         
 ################### Screenshot ########################
 screenshot:
@@ -114,16 +114,16 @@ screenshot:
 about_us:
   enable: true
   subtitle: "Τα μέλη μας"
-  title: "The People Behind"
-  description: "Info here ... .."
+  title: "Τα άτομα πίσω από την AstroLysis"
+  description: "Η ομάδα μας, με πάνω από 30 χρόνια συνολικής εμπειρίας στην Ηλεκτρολογία, Τεχνητή Νοημοσύνη, Βαθιά Μάθηση, UAVs και τα Ενσωματωμένα Συστήματα, χρησιμοποιεί και συνδυάζει δεδομένα από δορυφόρους με UAVs για τη δημιουργία καινοτόμων λύσεων."
   team:
   - name: "Χαράλαμπος Μπουρνάς"
     image: "images/about/team/01.jpg"
     designation: "AI"
   - name: "Κωνσταντίνος Λυμέρης"
     image: "images/about/team/02.jpg"
-    designation: "Drone"
+    designation: "UAVs"
   - name: "Μιχάλης Σπύρου"
     image: "images/about/team/03.jpg"
-    designation: "SW"
+    designation: "Software"
 ---

@@ -4,22 +4,22 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-weight = 2
-name = "Use cases"
-hasChildren = true
+#[[main]]
+#weight = 2
+#name = "Use cases"
+#hasChildren = true
 
-  [[main]]
-  parent = "Use cases"
-  name = "Civilian"
-  url = "pricing/"
-  weight = 1
+#  [[main]]
+#  parent = "Use cases"
+#  name = "Civilian"
+#  url = "pricing/"
+#  weight = 1
 
-  [[main]]
-  parent = "Use cases"
-  name = "Defence"
-  url = "pricing/"
-  weight = 2
+#  [[main]]
+#  parent = "Use cases"
+#  name = "Defence"
+#  url = "pricing/"
+#  weight = 2
 
 #[[main]]
 #name = "Blog"

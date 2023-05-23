@@ -90,14 +90,14 @@ service:
       #   label : "Check it out"
       #   link : "#"
 
-    - title : "Military"
+    - title : "Custom solutions"
       images:
       - "images/service-military.jpg"
-      content : "Description here"
-      # button:
-      #   enable : true
-      #   label : "Check it out"
-      #   link : "#"
+      content : "We warmly welcome you to reach out to us if you are seeking a personalized solution that aligns with your specific needs!"
+      button:
+        enable : true
+        label : "Contact us"
+        link : "/contact"
         
 ################### Screenshot ########################
 screenshot:
@@ -111,8 +111,8 @@ screenshot:
 about_us:
   enable: true
   subtitle: "Our members"
-  title: "The People Behind"
-  description: "Info here ... .."
+  title: "The People Behind Astrolysis"
+  description: "Our team with over 30 years of combined experience in Electrical Engineering, AI, Deep Learning, UAVs and Embedded Systems, utilizes and combines satellite data with UAVs to create innovative solutions."
   team:
   - name: "Charalampos Bournas"
     image: "images/about/team/01.jpg"
@@ -122,5 +122,5 @@ about_us:
     designation: "UAVs"
   - name: "Michalis spyrou"
     image: "images/about/team/03.jpg"
-    designation: "SW"
+    designation: "Software"
 ---
