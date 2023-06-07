@@ -8,7 +8,7 @@ draft: false
 
 
 ### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+We are eager to get it touch with you and show you our solutions!
 
 * **Mail: info@astrolysis.com**
 * **Location: Greece**
