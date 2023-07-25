@@ -114,13 +114,13 @@ about_us:
   title: "The People Behind Astrolysis"
   description: "Our team with over 30 years of combined experience in Electrical Engineering, AI, Deep Learning, UAVs and Embedded Systems, utilizes and combines satellite data with UAVs to create innovative solutions."
   team:
-  - name: "Charalampos Bournas"
+  - name: "CB"
     image: "images/about/team/01.jpg"
     designation: "AI"
-  - name: "Konstantinos Lymeris"
+  - name: "KL"
     image: "images/about/team/02.jpg"
     designation: "UAVs"
-  - name: "Michalis spyrou"
+  - name: "MS"
     image: "images/about/team/03.jpg"
     designation: "Software"
 ---
