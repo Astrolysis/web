@@ -117,13 +117,13 @@ about_us:
   title: "Τα άτομα πίσω από την AstroLysis"
   description: "Η ομάδα μας, με πάνω από 30 χρόνια συνολικής εμπειρίας στην Ηλεκτρολογία, Τεχνητή Νοημοσύνη, Βαθιά Μάθηση, UAVs και τα Ενσωματωμένα Συστήματα, χρησιμοποιεί και συνδυάζει δεδομένα από δορυφόρους με UAVs για τη δημιουργία καινοτόμων λύσεων."
   team:
-  - name: "Χαράλαμπος Μπουρνάς"
+  - name: "CB"
     image: "images/about/team/01.jpg"
     designation: "AI"
-  - name: "Κωνσταντίνος Λυμέρης"
+  - name: "KL"
     image: "images/about/team/02.jpg"
     designation: "UAVs"
-  - name: "Μιχάλης Σπύρου"
+  - name: "MS"
     image: "images/about/team/03.jpg"
     designation: "Software"
 ---
