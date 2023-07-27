@@ -112,14 +112,14 @@ about_us:
   enable: true
   subtitle: "Our members"
   title: "The People Behind Astrolysis"
-  description: "Our team with over 30 years of combined experience in Electrical Engineering, AI, Deep Learning, UAVs and Embedded Systems, utilizes and combines satellite data with UAVs to create innovative solutions."
+  description: "Our team with over 30 years of combined experience in Electrical Engineering, AI, Deep Learning, Unmanned and Embedded Systems, utilizes and combines satellite data with UAVs to create innovative solutions."
   team:
   - name: "CB"
     image: "images/about/team/01.jpg"
     designation: "AI"
   - name: "KL"
     image: "images/about/team/02.jpg"
-    designation: "UAVs"
+    designation: "Unmanned Systems"
   - name: "MS"
     image: "images/about/team/03.jpg"
     designation: "Software"
