@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Welcome to <br> AstroLysis"
-  content : "We specialize in crafting state-of-the-art solutions that harness the power of AI, satellite data, and aerial imagery. Our multidisciplinary team of experts in Electrical Engineering, AI, Deep Learning, UAVs, and Embedded Systems collaborates to create innovative tools that unlock valuable insights from the skies."
+  content : "We specialize in crafting state-of-the-art solutions that harness the power of AI, satellite data, and aerial imagery. Our multidisciplinary team of experts in Electrical Engineering, AI, Deep Learning, Unmanned and Embedded Systems collaborates to create innovative tools that unlock valuable insights from the skies."
   button:
     enable : true
     label : "Learn more"
@@ -54,7 +54,7 @@ service:
       - "images/service-1.jpg"
       - "images/service-2.jpg"
       - "images/service-3.jpg"
-      content : "Our mission is to bring high-resolution multispectral imagery and data processing and analysis into the hands of those who need it most. By utilizing the latest advancements in AI and image recognition, we transform complex data from satellite imagery and aerial photography into actionable, real-time information. Our expertise in UAV technology adds a unique dimension to our services, enabling us to deliver localized and highly specific data capture. At AstroLysis, we're not just developing cutting-edge technology; we're shaping the future of aerial and satellite-based intelligence."
+      content : "Our mission is to bring high-resolution multispectral imagery and data processing and analysis into the hands of those who need it most. By utilizing the latest advancements in AI and image recognition, we transform complex data from satellite imagery and aerial photography into actionable, real-time information. Our expertise in Unmanned Systems technology adds a unique dimension to our services, enabling us to deliver localized and highly specific data capture. At AstroLysis, we're not just developing cutting-edge technology; we're shaping the future of aerial and satellite-based intelligence."
       # button:
       #   enable : true
       #   label : "Check it out"
